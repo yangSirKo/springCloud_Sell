@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ccyang.order.server.repository.OrderDetailRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.63 s - in com.ccyang.order.server.repository.OrderDetailRepositoryTest
